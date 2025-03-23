@@ -45,7 +45,7 @@ streamlit run app.py
 ```
 
 ## 📈 Results & Evaluation
-- Accuracy: ~XX% on the test set.
+- Accuracy: ~61% on the test set.
 - Confusion matrix visualization.
 - Model performance plots.
 
