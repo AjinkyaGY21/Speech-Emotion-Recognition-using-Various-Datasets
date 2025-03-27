@@ -39,10 +39,8 @@ pip install -r requirements.txt
 
 This project uses **preprocessed datasets** stored in `X.joblib` and `y.joblib`. If you want to train your own model, you can use datasets like:
 
-- 🎭 **[RAVDESS](https://zenodo.org/record/1188976)**
-- 🎙️ **CREMA-D**
-- 📢 **TESS**
-- 🔊 **SAVEE**
+- 🎭 **[RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)**
+- 📢 **[TESS](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess?resource=download)**
 
 ## 🎤 Running the Streamlit App
 
