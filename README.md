@@ -6,11 +6,12 @@ Speech Emotion Recognition (SER) is a machine learning project that identifies e
 
 ## 🏗️ Features
 
-✅ **Pretrained Model**: No need for retraining; directly classify emotions.
-✅ **Audio Upload**: Upload a `.wav` file for analysis.
-✅ **Emotion Prediction**: Detects emotions like **Happy, Sad, Angry, etc.**
-✅ **Interactive UI**: Built using **Streamlit** for ease of use.
-✅ **Visualization**: Displays prediction probabilities in a bar chart.
+- ✅ **Pretrained Model**: No need for retraining; directly classify emotions.  
+- ✅ **Audio Upload**: Upload a `.wav` file for analysis.  
+- ✅ **Emotion Prediction**: Detects emotions like **Happy, Sad, Angry, etc.**  
+- ✅ **Interactive UI**: Built using **Streamlit** for ease of use.  
+- ✅ **Visualization**: Displays prediction probabilities in a bar chart.  
+
 
 ## 🚀 Installation Guide
 
