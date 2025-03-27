@@ -10,3 +10,5 @@ keras
 plotly
 streamlit
 IPython
+joblib
+resampy
